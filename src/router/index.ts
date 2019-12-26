@@ -1,14 +1,14 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
-import Home from '../views/Home.vue';
+import EditScreen from '../screen/application/layout/edit/editScreen.vue';
 
 Vue.use(VueRouter);
 
 const routes = [
   {
     path: '/',
-    name: 'home',
-    component: Home,
+    name: 'editScreen',
+    component: EditScreen,
   },
   {
     path: '/about',
