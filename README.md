@@ -13,24 +13,3 @@
 大家在看结构之前可以先看我写的博客专栏： [https://segmentfault.com/blog/develop_datav?_ea=26510477](https://segmentfault.com/blog/develop_datav?_ea=26510477)
 
 # online address https://chuxiaoguo.github.io/mita/
-
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
