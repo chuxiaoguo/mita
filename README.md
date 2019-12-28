@@ -9,6 +9,9 @@
 2. 移除页面功能
 3. 图表先做echarts和基础图形
 
+# 博客专栏
+大家在看结构之前可以先看我写的博客专栏： [https://segmentfault.com/blog/develop_datav?_ea=26510477](https://segmentfault.com/blog/develop_datav?_ea=26510477)
+
 # online address https://chuxiaoguo.github.io/mita/
 
 
