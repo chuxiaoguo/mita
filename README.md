@@ -1,5 +1,5 @@
 # mita
-摊牌了，不装了，dataVisual开始搞起来!
+一个类似阿里dataV的项目dataVisual
 
 # 更新提示
 很多人都在问代码呢？
